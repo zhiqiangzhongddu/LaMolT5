@@ -1,0 +1,4 @@
+CID,SMILES,description
+9859627,COC1=CC=CC2=C1C(=CN2)C/C(=N/OS(=O)(=O)[O-])/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,"The molecule is an indolylmethylglucosinolate that is the conjugate base of 4-methoxyglucobrassicin, obtained by deprotonation of the sulfo group. It is a conjugate base of a 4-methoxyglucobrassicin."
+279,C(C(C(=O)O)NC(=O)N)C(=O)O,"The molecule is an N-carbamoylamino acid that is aspartic acid with one of its amino hydrogens replaced by a carbamoyl group. It has a role as a Saccharomyces cerevisiae metabolite, an Escherichia coli metabolite and a human metabolite. It is a N-carbamoyl-amino acid, an aspartic acid derivative and a C4-dicarboxylic acid. It is a conjugate acid of a N-carbamoylaspartate(2-)."
+135814272,C1[C@@H](N=C(S1)C2=NC3=C(S2)C=C(C=C3)O)C(=O)[O-],The molecule is the conjugate base of Photinus luciferin; major species at pH 7.3. It is a conjugate base of a Photinus luciferin. It is an enantiomer of an ent-Photinus luciferin(1-).
