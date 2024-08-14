@@ -1,0 +1,8 @@
+For molt5-augmented-default-100-small-smiles2caption.txt
+bleu2: 0.337
+bleu4: 0.239
+rouge_1: 0.472
+rouge_2: 0.292
+rouge_l: 0.413
+meteor_score: 0.376
+

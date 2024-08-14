@@ -1,0 +1,89 @@
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-100-small-smiles2caption.txt
+Average Similarity: 0.4919247031211853
+Negative Similarity: -0.00777128990739584
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-200-small-smiles2caption.txt
+Average Similarity: 0.5346442461013794
+Negative Similarity: -0.007932201959192753
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-300-small-smiles2caption.txt
+Average Similarity: 0.5552321672439575
+Negative Similarity: -0.00807940773665905
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-400-small-smiles2caption.txt
+Average Similarity: 0.5695971846580505
+Negative Similarity: -0.00803657341748476
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-500-small-smiles2caption.txt
+Average Similarity: 0.5758545398712158
+Negative Similarity: -0.00811665691435337
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-600-small-smiles2caption.txt
+Average Similarity: 0.5815538167953491
+Negative Similarity: -0.00795297883450985
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-700-small-smiles2caption.txt
+Average Similarity: 0.5847489237785339
+Negative Similarity: -0.007600387558341026
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-800-small-smiles2caption.txt
+Average Similarity: 0.5870486497879028
+Negative Similarity: -0.007823413237929344
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-900-small-smiles2caption.txt
+Average Similarity: 0.5888506770133972
+Negative Similarity: -0.007676525507122278
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-1100-small-smiles2caption.txt
+Average Similarity: 0.5892112255096436
+Negative Similarity: -0.00750826857984066
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-1200-small-smiles2caption.txt
+Average Similarity: 0.5897372364997864
+Negative Similarity: -0.007556757889688015
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-1300-small-smiles2caption.txt
+Average Similarity: 0.589718759059906
+Negative Similarity: -0.0073578921146690845
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-1400-small-smiles2caption.txt
+Average Similarity: 0.5904524922370911
+Negative Similarity: -0.0072995200753211975
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-1500-small-smiles2caption.txt
+Average Similarity: 0.5883846879005432
+Negative Similarity: -0.007217521779239178
+
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-100-base-smiles2caption.txt
+Average Similarity: 0.5805754065513611
+Negative Similarity: -0.009091941639780998
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-200-base-smiles2caption.txt
+Average Similarity: 0.5890808701515198
+Negative Similarity: -0.00847057905048132
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-300-base-smiles2caption.txt
+Average Similarity: 0.5952176451683044
+Negative Similarity: -0.008448219858109951
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-400-base-smiles2caption.txt
+Average Similarity: 0.5963585376739502
+Negative Similarity: -0.007768426556140184
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-400-base-smiles2caption.txt
+Average Similarity: 0.5963585376739502
+Negative Similarity: -0.007768426556140184
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-500-base-smiles2caption.txt
+Average Similarity: 0.5970162153244019
+Negative Similarity: -0.007445742841809988
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-600-base-smiles2caption.txt
+Average Similarity: 0.5978394746780396
+Negative Similarity: -0.007526167202740908
+
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-default-700-base-smiles2caption.txt
+Average Similarity: 0.5987183451652527
+Negative Similarity: -0.007304397411644459
+
