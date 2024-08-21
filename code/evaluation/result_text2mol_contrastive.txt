@@ -1,0 +1,4 @@
+For /home/haoyu.guo/Synthetic/predictions/molt5-augmented-contrastive-100-small-smiles2caption.txt
+Average Similarity: 0.06851964443922043
+Negative Similarity: 0.06414958089590073
+
