@@ -10,8 +10,15 @@
   - `ssh -N -f -L localhost:16006:localhost:6006 <USER>@<SERVER>`
 
 # Models
-The models for this project can be found at huggingface [here](https://huggingface.co/PATH_TO_REPOSITORY).
+The models for this project can be found at huggingface [here](https://huggingface.co/PATH_TO_REPOSITORY) (update path to new huggingface repo).
 For now there are a checkpoint for each 100 epochs.
 
+# Predict
+- You can generate predictions with a trained model using the `prediction/predict.py` script.
+
+
+# Evaluation
+- You can evaluate trained models with the two scripts `evaluation/evaluate_caption2smiles.py` and `evaluation/evaluate_smiles2caption` based on predictions generated on the previous step.
+
 # Results
-Todo ...
+The results from the evaluation step will be saved as a file under the `evalauation` folder.
